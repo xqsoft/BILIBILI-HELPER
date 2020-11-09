@@ -6,7 +6,7 @@ package top.misec.login;
  */
 public class ServerVerify {
 
-    private static String FTKEY = SCU73608Td89b1858568545d630f083286ca27afa5e069ff235dd8;
+    private static String FTKEY = "SCU73608Td89b1858568545d630f083286ca27afa5e069ff235dd8";
 
 
     private final static ServerVerify SERVER_VERIFY = new ServerVerify();
